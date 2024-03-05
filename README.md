@@ -19,5 +19,5 @@
 
 5. Как создать файл README с помощью MARKDOWN )))
 
-Благодарю тебя за внимание!) Присоединяйся к моему [GitHub] (https://github.com/maximknyazkin626 "Мой Github!") 
+Благодарю тебя за внимание!) Присоединяйся к моему [GitHub](https://github.com/maximknyazkin626 "Мой Github!") 
 
